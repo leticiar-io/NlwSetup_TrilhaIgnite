@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/github/forks/leticiar-io/NlwSetup_TrilhaIgnite?label=forks&message=MIT&color=white&labelColor=8257E5" alt="Forks">
   <img src="https://img.shields.io/github/stars/leticiar-io/NlwSetup_TrilhaIgnite?label=stars&message=MIT&color=white&labelColor=8257E5" alt="Stars">
 
-<img id="habits" src="habits-cover.png" alt="habits cover">
+<img id="habits" src="./.github/habits-cover.png" alt="habits cover">
 
 > The “Habits” Project was developed during the 1st edition of the NLW (Next Level Week) of 2023. In which both the backend, frontend web and mobile were developed.
 

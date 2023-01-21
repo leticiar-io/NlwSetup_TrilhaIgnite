@@ -1,9 +1,10 @@
 # Habits - NLW 2023 (Ignite)
 
+<div>
   <img src="https://img.shields.io/static/v1?label=Taught%20by&message=Rocketseat&color=white&labelColor=8257E5" alt="Taught by Rocketseat">
   <img src="https://img.shields.io/github/forks/leticiar-io/NlwSetup_TrilhaIgnite?label=forks&message=MIT&color=white&labelColor=8257E5" alt="Forks">
   <img src="https://img.shields.io/github/stars/leticiar-io/NlwSetup_TrilhaIgnite?label=stars&message=MIT&color=white&labelColor=8257E5" alt="Stars">
-
+</div>
 <img id="habits" src="./.github/habits-cover.png" alt="habits cover">
 
 > The “Habits” Project was developed during the 1st edition of the NLW (Next Level Week) of 2023. In which both the backend, frontend web and mobile were developed.
@@ -24,7 +25,6 @@ This project was developed using the following technologies:
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.io/)
 
-
 <br></br>
 
 ## 💻 Prerequisites
@@ -34,7 +34,6 @@ Before you begin, make sure you've met the following requirements:
 - You have installed the latest version of `Node.js`
 - Compatible with all operating systems: Windows, Linux and Mac.
 - You must read the project documentation.
-
 
 <br></br>
 
